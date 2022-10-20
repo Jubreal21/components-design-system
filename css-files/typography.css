@@ -1,0 +1,122 @@
+/* This is for Big Heading text */
+.typographyHeadingTextBig 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 72px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+/* This is for heading medium text */
+.typographyHeadingTextMedium 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 64px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+/* for headng small text */
+.typographyHeadingSmallText 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 48px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+/* This is used for buttons */
+.typographyLabelTextBig 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+/* This is also used for button. Outline button to be precise. */
+.typographyLabelTextMedium 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyLabelTextSmall 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyTitleTextBig 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyTitleTextMedium 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyTitleTextSmall 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
