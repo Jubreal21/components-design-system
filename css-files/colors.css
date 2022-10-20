@@ -1,0 +1,13 @@
+
+:root {
+    --colorBlackPrimary: #000000;    
+    --colorThickBlue: #1400ff;    
+    --colorPrimaryThickBlue: #1400f5;    
+    --colorFadedBlue: #311fff;    
+    --colorWhite: #ffffff;    
+    --colorVeryLightBlue: #a299ff;    
+    --colorVeryVeryLightBlue: #b4adff;    
+    /* a new color style
+     */
+    --colorRedColor: #51e72c;    
+}
